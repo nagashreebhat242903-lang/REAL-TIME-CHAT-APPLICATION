@@ -93,3 +93,4 @@ Intern ID: CTIS5403
 discretion: Real-Time Chat Application focuses on building a responsive chat app using WebSockets and a modern front-end framework like React.js or Vue.js. The application enables real-time messaging between users and includes message history for seamless communication. A completion certificate will be issued at the end of the internship.
 
 output:
+<img width="1919" height="1199" alt="Image" src="https://github.com/user-attachments/assets/bbf5325b-6c19-421c-a412-8e4cad98ec4e" />
