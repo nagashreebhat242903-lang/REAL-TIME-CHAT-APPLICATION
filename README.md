@@ -76,3 +76,20 @@ npm run start
 - The server keeps messages in memory only (resets on restart). Swap the store with a DB for persistence.
 - WebSocket protocol path: `/ws`
 - Environment variables: You can set PORT (default 3001).
+
+
+Candidate Name: Nagashree bhat
+
+Selected For: Frontend Web Development
+
+Organization: Codtech IT Solutions Private Limited
+
+Duration: 4 Weeks
+
+Internship Period: 08 February 2026-08 March 2026
+
+Intern ID: CTIS5403
+
+discretion: Real-Time Chat Application focuses on building a responsive chat app using WebSockets and a modern front-end framework like React.js or Vue.js. The application enables real-time messaging between users and includes message history for seamless communication. A completion certificate will be issued at the end of the internship.
+
+output:
